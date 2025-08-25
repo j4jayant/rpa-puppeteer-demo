@@ -1,5 +1,8 @@
 **Enhancing Healthcare Interoperability with Robotic Process Automation (RPA) Using Web-Based EHRs**
 
+Find the complete article here:
+https://www.j4jayant.com/2025/08/enhancing-healthcare-interoperability.html
+
 To run this service on your local use: `npx ts-node app.ts`
 
 Sample Postman API Request
